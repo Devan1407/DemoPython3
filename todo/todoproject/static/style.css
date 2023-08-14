@@ -1,0 +1,21 @@
+
+.banner {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+}
+
+banner-text{
+
+top:50%;
+left:50%;
+position:absolute;
+transform:transform;
+}
